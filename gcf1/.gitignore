@@ -1,1 +1,8 @@
 .idea/
+env/
+gitignore
+name
+inspectionProfiles/
+misc.xml
+modules.xml
+vcs.xml
